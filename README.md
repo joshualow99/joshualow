@@ -1,1 +1,2 @@
-# joshualow
+# About me
+I am a passionate developer seeking to upskill myself in multiple fields of information technology. I graduated a few years ago with a Bachelor of Software Engineering, and am currently working as a scriptwriter in a market research company. Feeling that times are changing fast, I seek to learn more on the many diverse facets of the software world. Therefore, feeling left behind, I hope I will be able to create multiple exciting side projects that I would be proud of in the coming years!
